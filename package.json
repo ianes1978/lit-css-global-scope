@@ -1,6 +1,6 @@
 {
   "name": "lit-css-global-scope",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "a global style css importer for webcomponent lit-element / lit-html",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,10 @@
   },
   "keywords": [
     "lit-html",
+    "bootstrap",
     "lit-element",
     "webcomponents",
+    "webcomponent",
     "css",
     "lit-css"
   ],
