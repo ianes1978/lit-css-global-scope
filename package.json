@@ -1,0 +1,25 @@
+{
+  "name": "lit-css-global-scope",
+  "version": "0.1.0",
+  "description": "a global style css importer for webcomponent lit-element / lit-html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lit-html",
+    "lit-element",
+    "webcomponents",
+    "css",
+    "lit-css"
+  ],
+  "author": "Roberto Ianes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianes1978/lit-css-global-scope"
+  },
+  "dependencies": {
+    "lit-html": "~1.2"
+  }
+}
