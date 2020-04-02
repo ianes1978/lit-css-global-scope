@@ -1,4 +1,4 @@
-import { css } from 'lit-html';
+import { css } from 'lit-element';
 const styleRules = Object.values(document.styleSheets).reduce((obj,styleSheet)=>{
    return obj = [...obj,...Object.values(styleSheet.cssRules)]
    },[])
