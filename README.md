@@ -1,6 +1,6 @@
 # lit-css-global-scope
-It simple import global styleSheet from document Object. it is usefull to import a glogal style in a webcomponent builded with **lit-element**.
-Permit to retains the benefits of shadowdom and global css.
+It is a simple import global styleSheet from document Object. it might be useful to import a global style in a webcomponent builded with **lit-element**.
+It permit to retains the benefits of shadowdom and global css.
 You can use it with boostrap or other css framework
 
 # Use it
